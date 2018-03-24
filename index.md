@@ -1,3 +1,3 @@
 # ReSwitched
 
-[Community Discord Rules](community/rules.md)
+[Community Discord Rules](community/rules)
