@@ -54,3 +54,28 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
         - When a global ping happens, the channel it occured in will be temporarily **locked down** to avoid noise from random users.
             - Don't use the other channels to discuss the ping unless it's appropriate to do so.*
         - Complaining about these pings may result in a ban.
+5. No raids.
+    *Don't brigade, raid, or otherwise attack other people or communities. Don't discuss participation in these attacks. This may warrant an immediate permanent ban.
+6. Maintain quality, supress noise.
+    - Don't spam.
+        - For excessively long text, use a service link [0bin](https://0bin.net/)
+    - Channels may be locked down in the event that a discussion or argument gets out of hand, if there is an attack or spammer present, or if we need to get the attention of users in the channel quickly (including with a global mention).
+        - When a channel is locked down, especially if it is because of an argument or off-the-handle discussion, do *not* bring the topic to another channel.
+            - Doing so will result in moderation action against you and/or your posts.
+        - **Off-topic content goes to __#off-topic__**.
+            - Keep low-quality content like memes and shitposting out of the other channels.
+            - __#off-topic__ is for *high quality* discussion. ;)
+            - Access to the __#off-topic__ channel is through the "__@community__" role, and...
+                - is given to users, by staff, when we feel that you are contributing positiviely to the community and the quality of discussion, and we are participating well.
+                - is not given by request.
+                - is not given based on any particular contribution (e.g., to a dump request, or to the wiki, code, or by reporting a bug).
+                - is given to you, the user, when we feel that you have *earned it*.
+                - can be removed from anyone, for any reason, absolutely arbitrarily.
+                - may be reinstated, if we feel you've continued to earn it.
+                - will be removed __permanently__ if you are breaking the rules, the community guidelines, or code of conduct.
+                - may be removed from many or all people at a time, especially if the channel is too crowded, or if the conversation is worthy of a lockdown.
+            - **Not having access to __#off-topic__ is *not* an excuse for posting off topic stuff in other channels.**
+                - If you feel the need to post off-topic random things not related to Switch hacking, and you aren't going to participate in ReSwitched and be well-behaved enough to get access to __#off-topic__, don't waste our time; *join another community*.
+            - This server primarily speaks English, and we expect that you communicate clearly.
+                - We will try our best to understand you if English is not your first language or if you do not speak it well or at all and rely on machine translation. We try to remain accessible and friendly.
+                    - However, if you do break the other rules, we will still enforce them regardless.
