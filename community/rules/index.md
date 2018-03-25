@@ -41,7 +41,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
 
     All other news, which doesn't require mass-notification, is posted to __#news__.
     1. @everyone mentions
-        - From time to time, **we may mention __@everyone__ in the server.**
+        - From time to time, **we may mention @everyone in the server.**
         - We do this when we feel something important is going on that requires attention.
         - Important things include, but are not limited to: community changes, new developments in Switch hacking, time-critical announcements, and hardware or software changes which jeopardize the possibility of future homebrew.
     2. @here mentions
@@ -50,7 +50,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     3. Miscellaneous
         - Staff will not abuse this to unnecessarily or randomly ping people.
         - To disable notifications for these pings, supress them in "ReSwitched server menu → Notification Settings".
-            - *On desktop: [see this GIF](https://cdn.discordapp.com/attachments/290068297238446082/397605479154450450/2017-12-23_20-57-21.gif)
+            - *On desktop: [see this GIF]*(https://cdn.discordapp.com/attachments/290068297238446082/397605479154450450/2017-12-23_20-57-21.gif)
         - When a global ping happens, the channel it occured in will be temporarily **locked down** to avoid noise from random users.
             - Don't use the other channels to discuss the ping unless it's appropriate to do so.*
         - Complaining about these pings may result in a ban.
