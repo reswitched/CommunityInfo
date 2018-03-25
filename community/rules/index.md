@@ -74,8 +74,29 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
                 - may be reinstated, if we feel you've continued to earn it.
                 - will be removed __permanently__ if you are breaking the rules, the community guidelines, or code of conduct.
                 - may be removed from many or all people at a time, especially if the channel is too crowded, or if the conversation is worthy of a lockdown.
-            - **Not having access to __#off-topic__ is *not* an excuse for posting off topic stuff in other channels.**
+            - **Not having access to #off-topic is *not* an excuse for posting off topic stuff in other channels.**
                 - If you feel the need to post off-topic random things not related to Switch hacking, and you aren't going to participate in ReSwitched and be well-behaved enough to get access to __#off-topic__, don't waste our time; *join another community*.
             - This server primarily speaks English, and we expect that you communicate clearly.
                 - We will try our best to understand you if English is not your first language or if you do not speak it well or at all and rely on machine translation. We try to remain accessible and friendly.
                     - However, if you do break the other rules, we will still enforce them regardless.
+7. Do not evade the rules.
+    - The rules are enforced *in spirit*, not strict letter.
+    - **You are not a lawyer here.** Rules-lawyering and arguing about the rules in response to being warned or otherwise moderated against will not help your case, and may result in further penalties.
+        - If you do need to discuss a change or error in the rules, see Rule 3.
+    - **Trying to evade**, look for loopholes, or stay borderline within the rules *will be treated as breaking them.*
+8. No piracy.
+    - **Absolutely no pirachy.**
+    - Do not __participate__ in piracy.
+    - Do not illegally share copyrighted material in this server or community.
+    - Do not aid others in sharing or downloading copyrighted material.
+    - There is a **zero tolerance policy** and we will enforce this *strictly* and *swiftly*.
+    - *Don't even joke about it.* It would be embarrassing __for the both of us__ if you were joking about being a pirate and we took it seriously and wrongfully banned you.
+    - Keys and dumps are copyrighted material. Fragments of keys or dumps are copyrighted material.
+        - If you need to verify one of your keys or other dumps against someone else's or a known-good copy, post a *hash* of the material.
+    - For the sake of argument, there are copyrighted works which are under license to be re-shared freely. This does not restrict or forbid those from being shared, or otherwise add or remove restrictions to any license to a user to own, distrubute, share, or use a work or other material.
+        - "Copyrighted material" refers to any materials for which the copying and redistribution thereof is forbidden to the user who has a copy.
+9. Maintain and acceptable profile.
+    - Don't use profile pictures or nicknames with a clear trolling and/or offensive purpose while in this server.
+        - Failing to change your profile picture/nickname when requested so by the staff will result in appropriate staff action.
+        - Particularly offensive nicknames/profile pictures (hate symbols or names, slurs, et cetera) may be grounds for an immediate ban.
+    - Keep the first character of your server nickname to alphanumeric characters. This is for chat organization purposes.
