@@ -62,7 +62,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     - Channels may be locked down in the event that a discussion or argument gets out of hand, if there is an attack or spammer present, or if we need to get the attention of users in the channel quickly (including with a global mention).
         - When a channel is locked down, especially if it is because of an argument or off-the-handle discussion, do *not* bring the topic to another channel.
             - Doing so will result in moderation action against you and/or your posts.
-        - **Off-topic content goes to __#off-topic__**.
+        - **Off-topic content goes to #off-topic**.
             - Keep low-quality content like memes and shitposting out of the other channels.
             - __#off-topic__ is for *high quality* discussion. ;)
             - Access to the __#off-topic__ channel is through the "__@community__" role, and...
