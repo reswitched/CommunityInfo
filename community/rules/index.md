@@ -34,3 +34,23 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     - __If you need to discuss something privately__ with all staff, *inform a staff member.* We will open a channel for your input.
         - This also counts for if you need to discuss a vulnerability or exploit you have discovered in private.
     - __We will maintain a best effort of confidentiality among staff.__ However, if one staff member is contacted about a ReSwitched issue, *all staff members may be made aware of your concerns* in order to work together towards a solution or resolution.
+4. We will global-ping
+    Global pings are an easy way to be notified of especially important news regarding Switch.
+
+    We ask that you not supress global pings if you wish to make use of homebrew tools and participate in ReSwitched, however we understand that people are typically not happy with having their Discord light up.
+
+    All other news, which doesn't require mass-notification, is posted to __#news__.
+    1. @everyone mentions
+        - From time to time, **we may mention __@everyone__ in the server.**
+        - We do this when we feel something important is going on that requires attention.
+        - Important things include, but are not limited to: community changes, new developments in Switch hacking, time-critical announcements, and hardware or software changes which jeopardize the possibility of future homebrew.
+    2. @here mentions
+        - From time to time, *we may mention __@here__ in the server.**
+        - We do this when there is something that we need community participation for, such as analysis of console data, or a pre-release which we are running through a final Q.A.
+    3. Miscellaneous
+        - Staff will not abuse this to unnecessarily or randomly ping people.
+        - To disable notifications for these pings, supress them in "ReSwitched server menu → Notification Settings".
+            - *On desktop: [see this GIF](https://cdn.discordapp.com/attachments/290068297238446082/397605479154450450/2017-12-23_20-57-21.gif)
+        - When a global ping happens, the channel it occured in will be temporarily **locked down** to avoid noise from random users.
+            - Don't use the other channels to discuss the ping unless it's appropriate to do so.*
+        - Complaining about these pings may result in a ban.
