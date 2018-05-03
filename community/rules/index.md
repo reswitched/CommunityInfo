@@ -58,7 +58,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
     *Don't brigade, raid, or otherwise attack other people or communities. Don't discuss participation in these attacks. This may warrant an immediate permanent ban.
 6. Maintain quality, supress noise.
     - Don't spam.
-        - For excessively long text, use a service link [0bin](https://0bin.net/)
+        - For excessively long text, use a service like [0bin](https://0bin.net/)
     - Channels may be locked down in the event that a discussion or argument gets out of hand, if there is an attack or spammer present, or if we need to get the attention of users in the channel quickly (including with a global mention).
         - When a channel is locked down, especially if it is because of an argument or off-the-handle discussion, do *not* bring the topic to another channel.
             - Doing so will result in moderation action against you and/or your posts.
