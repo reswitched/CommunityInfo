@@ -98,7 +98,7 @@ Don't whine about staff or these rules in public. As per rule 3, do talk private
         - If you need to verify one of your keys or other dumps against someone else's or a known-good copy, post a *hash* of the material.
     - For the sake of argument, there are copyrighted works which are under license to be re-shared freely. This does not restrict or forbid those from being shared, or otherwise add or remove restrictions to any license to a user to own, distrubute, share, or use a work or other material.
         - "Copyrighted material" refers to any materials for which the copying and redistribution thereof is forbidden to the user who has a copy.
-9. Maintain and acceptable profile.
+9. Maintain an acceptable profile.
     - Don't use profile pictures or nicknames with a clear trolling and/or offensive purpose while in this server.
         - Failing to change your profile picture/nickname when requested so by the staff will result in appropriate staff action.
         - Particularly offensive nicknames/profile pictures (hate symbols or names, slurs, et cetera) may be grounds for an immediate ban.
