@@ -1,4 +1,7 @@
-# ReSwitched
+---
+layout: page
+title: Reswitched
+---
 
 Welcome to ReSwitched, where we believe in your habilities.
 

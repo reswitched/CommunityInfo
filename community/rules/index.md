@@ -1,4 +1,7 @@
-# ReSwitched Community Discord Rules
+---
+layout: page
+title: Rules
+---
 
 These are the rules, guidelines, and code of conduct for participation in the ReSwitched community.  
 **By participating—posting, commenting, reacting, contributing, or editing—you agree to these rules.**
