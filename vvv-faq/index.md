@@ -1,4 +1,7 @@
-# Very, very, very frequently asked questions
+---
+layout: page
+title: Very, very, very frequently asked questions
+---
 
 ## 1. **Firmware.** *What firmware is best? Should I upgrade to a specific firmware? Where should I get to, where should I stay?*
 
